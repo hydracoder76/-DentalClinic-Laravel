@@ -65,5 +65,4 @@
 			<a href="/booking">Book an Appointment</a>
 		</li>
 	</ul>
-	<p class="text-white text-center py-4">Created By: <a class="text-blue-500 hover:underline" href="http://www.vojislavdragicevic.com/" target="_blank">Vojislav Dragicevic</a> <span class="mx-1">|</span> July, 2020</p>
 </footer>
