@@ -26,7 +26,7 @@ php artisan db:seed
 ```
 
 <br>
-<p>To use administration part of application you need to log in, go to <a href="http://dental-template.herokuapp.com/login">login</a> page and use credentials: </p>
+<p>To use administration part of application you need to log in, go to /login</a> page and use credentials: </p>
 
 ```
 User: Admin
