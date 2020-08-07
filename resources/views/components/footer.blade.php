@@ -41,7 +41,6 @@
 		</li>
 	</ul>
 
-
 	<ul class="flex flex-col sm:flex-row items-center justify-center border-t text-white text-lg py-4">
 		<li class="mx-4 hover:underline">
 			<a href="/">Home</a>
